@@ -1,12 +1,1 @@
-git -c diff.mnemonicprefix=false -c core.quotepath=false --no-optional-locks submodule update --init RPG_Game_Development
-Cloning into 'C:/Users/wukan/Workspace/RPG_GAME/RPG_Game_Development'...
-fatal: unable to access 'https://github.com/wukangi/RPG_Game_Development.git/': Failed to connect to github.com port 443 after 21135 ms: Could not connect to server
-fatal: clone of 'https://github.com/wukangi/RPG_Game_Development.git' into submodule path 'C:/Users/wukan/Workspace/RPG_GAME/RPG_Game_Development' failed
-Failed to clone 'RPG_Game_Development'. Retry scheduled
-
-
-Cloning into 'C:/Users/wukan/Workspace/RPG_GAME/RPG_Game_Development'...
-fatal: unable to access 'https://github.com/wukangi/RPG_Game_Development.git/': Failed to connect to github.com port 443 after 21039 ms: Could not connect to server
-fatal: clone of 'https://github.com/wukangi/RPG_Game_Development.git' into submodule path 'C:/Users/wukan/Workspace/RPG_GAME/RPG_Game_Development' failed
-Failed to clone 'RPG_Game_Development' a second time, aborting
-
+test = "This is a test file."
